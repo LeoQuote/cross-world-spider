@@ -1,6 +1,7 @@
 # cross-world-spider
 古典乐资讯网的爬虫
 依赖包:
+
 1. Python(推荐Python3)
 2. requests
 3. BeautifySoup
